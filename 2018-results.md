@@ -12,6 +12,13 @@
 - 图解密码学
 - 算法图解
 
+## Conferences
+
+- DEF CON CHINA
+- 2018 FIT
+- 安全+白帽子技术沙龙
+
+
 ## Certificates
 
 [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/BSPJM3XJAV7U)
